@@ -19,5 +19,11 @@
   "homepage": "https://github.com/devStudent/Paginas-web-con-Bootstrap-4#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bufferutil": "^4.0.7",
+    "popper.js": "^1.16.1",
+    "utf-8-validate": "^6.0.2"
   }
 }
