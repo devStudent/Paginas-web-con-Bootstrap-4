@@ -1,0 +1,15 @@
+.jumbotron{
+    background-color: azure;
+}
+footer{
+    padding: 10px 10px 0 10px;
+    background-color: azure;
+    margin-bottom: 0;
+}
+.card-hotel{
+    flex: 1 150px;
+    padding: 2px;    
+}
+.btn-reserva{
+    width: 100%;
+}
