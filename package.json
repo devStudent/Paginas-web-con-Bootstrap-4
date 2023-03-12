@@ -16,11 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jvelandia@bitbucket.org/jvelandia/guia-hoteles.git"
+    "url": "git+https://github.com/devStudent/Paginas-web-con-Bootstrap-4.git"
   },
-  "author": "Jimmy Velandia",
+  "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/jvelandia/guia-hoteles#readme",
+  "bugs": {
+    "url": "https://github.com/devStudent/Paginas-web-con-Bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/devStudent/Paginas-web-con-Bootstrap-4#readme",
   "devDependencies": {
     "browser-sync": "^2.26.12",
     "clean-css-cli": "^4.3.0",
